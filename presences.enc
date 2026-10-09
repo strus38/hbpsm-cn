@@ -1,0 +1,10 @@
+{
+ "format": "hbpsm-chiffre",
+ "v": 1,
+ "kdf": "PBKDF2-SHA256",
+ "iterations": 600000,
+ "sel": "RMGRt6uB9lglVmZdXiHuzQ==",
+ "chiffre": "AES-256-GCM",
+ "nonce": "AHpIjPZfH+yuVfsj",
+ "donnees": "WRJaU5BK9I4UcdX+At7yfnVpUU0NE6bmirAWkNhWMcVpqTrJ85dV/3Nm5DBPMVSsznln4yQcBuoN5fjGc7Knb5DgxuDRQKVIoqZfm+6mj082iK5gUebPSusblUGHK1pjwM9YUDC/XfbdIUfme+loCctRalSc4XnnLy0VZg8aubQjJvxkQXAtIVd+rURkTkjts8AKmG5KoHaKnDsWHtIqMt8bRXE0GrbE5uIaRS1/Iu8zihyfgFlNgZMD+BGtAjeM12p4jKd1UJXc+6RQ3MILkAXBd5Jc23kApd7oyMt6/R/jnUldyH+Qa8QyEwe0UEYA7AKMtDFlGAyk9AlRxi4wUzbEOrBCiWPsR6/wAHtPd1xbMR76nF4spb+p5ZXJJg=="
+}
